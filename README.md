@@ -1,4 +1,4 @@
-#<ins>**Algorithm**</ins>
+# <ins>**Algorithm**</ins>
 ## Level 0
 > Make Singleton With All of My Objects\
 > Create Main GUI\
